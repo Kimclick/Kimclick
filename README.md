@@ -1,2 +1,0 @@
-안녕<br/><img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square&logo=Adobe InDesign&logoColor=white" alt="BADGE"/>www
-<br/><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" alt="BADGE"/>
