@@ -1,0 +1,1 @@
+<br/><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=timeAuto&text=Kimclick&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60" style="width:100%" alt="HEADER"/>
