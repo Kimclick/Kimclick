@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&text=Kimclick&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70" style="width:100%" alt="HEADER"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=B897FF&height=200&text=Kimclick&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44" style="width:100%" alt="HEADER"/>
