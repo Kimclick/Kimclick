@@ -1,7 +1,0 @@
-Q2c9PQogPGltZyBzcmM9Imh0dHBzOi8vY2Fwc3VsZS1yZW5kZXIudmVyY2Vs
-LmFwcC9hcGk/dHlwZT1yZWN0JmNvbG9yPXRpbWVHcmFkaWVudCZ0ZXh0PUtp
-bWNsaWNrJmZvbnRBbGlnbj0zMCZmb250U2l6ZT0zMCZ0ZXh0Qmc9dHJ1ZSZk
-ZXNjPVVzZSUyMCUyN3RleHRCZyUyNyUyMHRvJTIwaGlnaGxpZ2h0JTIwJTI3
-dGV4dCUyNyZkZXNjQWxpZ249NjAmZGVzY0FsaWduWT01MCIgc3R5bGU9Indp
-ZHRoOjEwMCUiIGFsdD0iSEVBREVSIi8+
- <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&text=Kimclick" style="width:100%" style="width:100%" alt="HEADER"/>
