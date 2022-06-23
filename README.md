@@ -16,4 +16,4 @@
  </div>
  
  <hr/>
- <img src="https://github-readme-stats.vercel.app/api?username=Kimclick&show_icons=true&theme=solarized-light" alt="STATUS"/>   
+ <img src="https://github-readme-stats.vercel.app/api?username=Kimclick&show_icons=true&theme=solarized-light" alt="STATUS"/>    <img src="https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=200&text=Kimclick&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44" style="width:100%" alt="HEADER"/>
