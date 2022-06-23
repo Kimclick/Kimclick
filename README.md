@@ -16,4 +16,4 @@
  </div>
  
  <hr/>
- <img src="https://github-readme-stats.vercel.app/api?username=Kimclick&show_icons=true&theme=aura_dark" alt="STATUS"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=maroongold" alt="BADGE"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Kimclick&show_icons=true&theme=aura_dark" alt="STATUS"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=maroongold" alt="BADGE"/> <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=Kimclick&fontSize=40&animation=twinkling" style="width:100%" alt="HEADER"/>
