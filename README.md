@@ -17,4 +17,4 @@
  
  <hr/>
  
- <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white" alt="BADGE"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact" alt="BADGE"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=vue" alt="BADGE"/>
+<div align=center>아래에 여러분이 선택한 <strong>api</strong>가 나타날 예정입니다.</div>
