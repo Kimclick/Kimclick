@@ -19,3 +19,4 @@
  
 <div align=center>아래에 여러분이 선택한 <strong>api</strong>가 나타날 예정입니다.</div>
  
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="BADGE"/>
