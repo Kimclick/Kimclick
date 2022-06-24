@@ -18,4 +18,4 @@
  <hr/>
  
 <div align=center>아래에 여러분이 선택한 <strong>api</strong>가 나타날 예정입니다.</div>
- <img src="https://github-readme-stats.vercel.app/api?username=Kimclick&show_icons=true" alt="STATUS"/> <img src="https://github-readme-stats.vercel.app/api?username=Kimclick&show_icons=true&theme=cobalt" alt="STATUS"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=vue" alt="BADGE"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Kimclick&show_icons=true" alt="STATUS"/> <img src="https://github-readme-stats.vercel.app/api?username=Kimclick&show_icons=true&theme=cobalt" alt="STATUS"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=vue" alt="BADGE"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white" alt="BADGE"/>
